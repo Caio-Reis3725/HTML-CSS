@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+a{
+    text-decoration: none;
+    color: black;
+}
+#verde:hover{
+    color:green;
+    
+}
+
+#amarela:hover{
+    color: yellow;
+}
+
+.cinza:hover{
+    color: gray;
+}
+
+body{
+    text-align: center;
+}
+
